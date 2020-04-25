@@ -9,7 +9,7 @@ public class Main {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Digite o seu nome: ");
+		System.out.println("Digite o nome do usuário: ");
 		String name = sc.nextLine();
 		
 		System.out.println("Seu nome é: " + name);
